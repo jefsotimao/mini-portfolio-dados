@@ -1,0 +1,39 @@
+ID_Entrega,Motorista,Cidade_Origem,Cidade_Destino,Distancia_km,Valor_Frete,Prazo_dias,Status,Data_Entrega
+1,João,Curitiba,São Paulo,410,850,2,Concluída,2024-05-10
+2,Carla,Curitiba,Joinville,140,310,1,Atrasada,2024-05-12
+3,Pedro,Londrina,Campinas,550,1120,3,Concluída,2024-05-13
+4,Ana,Maringá,Curitiba,430,870,2,Concluída,2024-05-15
+5,Rafael,Curitiba,Londrina,380,800,2,Concluída,2024-05-17
+6,Fernanda,Londrina,Maringá,120,290,1,Concluída,2024-05-17
+7,João,Curitiba,Ponta Grossa,110,260,1,Atrasada,2024-05-18
+8,Carla,Maringá,São Paulo,670,1400,3,Concluída,2024-05-19
+9,Pedro,Curitiba,Campinas,520,1050,3,Concluída,2024-05-19
+10,Ana,Londrina,Curitiba,390,850,2,Concluída,2024-05-20
+11,Rafael,Maringá,Londrina,120,280,1,Concluída,2024-05-20
+12,Fernanda,Curitiba,São Paulo,410,870,2,Atrasada,2024-05-22
+13,João,Londrina,Campinas,560,1150,3,Concluída,2024-05-23
+14,Carla,Maringá,Curitiba,430,890,2,Concluída,2024-05-23
+15,Pedro,Curitiba,Londrina,390,800,2,Atrasada,2024-05-24
+16,Ana,Londrina,São Paulo,600,1250,3,Concluída,2024-05-24
+17,Rafael,Maringá,Campinas,550,1180,3,Concluída,2024-05-25
+18,Fernanda,Curitiba,Joinville,140,300,1,Atrasada,2024-05-26
+19,João,Londrina,Curitiba,390,830,2,Concluída,2024-05-26
+20,Carla,Maringá,São Paulo,680,1420,3,Concluída,2024-05-27
+21,Pedro,Curitiba,Campinas,500,990,3,Concluída,2024-05-27
+22,Ana,Londrina,Ponta Grossa,250,480,1,Atrasada,2024-05-28
+23,Rafael,Curitiba,Maringá,430,870,2,Concluída,2024-05-29
+24,Fernanda,Londrina,São Paulo,600,1250,3,Concluída,2024-05-30
+25,João,Curitiba,Joinville,140,310,1,Atrasada,2024-05-31
+26,Carla,Maringá,Campinas,570,1160,3,Concluída,2024-06-01
+27,Pedro,Curitiba,São Paulo,410,850,2,Concluída,2024-06-02
+28,Ana,Londrina,Maringá,130,300,1,Concluída,2024-06-03
+29,Rafael,Curitiba,Londrina,380,780,2,Concluída,2024-06-04
+30,Fernanda,Maringá,Curitiba,430,860,2,Atrasada,2024-06-05
+31,João,Londrina,Campinas,550,1100,3,Concluída,2024-06-06
+32,Carla,Curitiba,Joinville,140,320,1,Concluída,2024-06-07
+33,Pedro,Maringá,São Paulo,670,1390,3,Concluída,2024-06-08
+34,Ana,Curitiba,Campinas,520,1040,3,Concluída,2024-06-09
+35,Rafael,Londrina,Curitiba,390,850,2,Atrasada,2024-06-10
+36,Fernanda,Maringá,Londrina,120,280,1,Concluída,2024-06-10
+37,João,Curitiba,São Paulo,410,870,2,Concluída,2024-06-11
+38,Carla,Londrin
