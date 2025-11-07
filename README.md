@@ -129,14 +129,15 @@ Explore as visualizações interativas
 Jeferson Carlos
 📍 Campo Largo – PR
 💼 Desenvolvedor / Analista de Dados Júnior
-🔗 GitHub
 
-🔗 LinkedIn
+🔗 [GitHub](https://github.com/jefsotimao)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jefersoncarlos/)
 
 🏁 Conclusão
 
 Este mini portfólio mostra o domínio do ciclo completo de análise de dados:
 
 Coleta → Exploração → Consultas → Visualização → Insights
+
 
 Com ele, apresento minha transição prática de desenvolvedor full stack para analista de dados, aplicando raciocínio lógico, modelagem e comunicação visual de resultados.
